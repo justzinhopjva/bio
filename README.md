@@ -28,5 +28,4 @@ Gustavo Oliveira da Hora - Dev Júnior!
 
   <hr>
 
-  </div># bio
-bio
+  </div>
