@@ -22,8 +22,8 @@
   <hr>
 
 </div>
---------------
-### 🛠️ Habilidades
+
+🛠️ Habilidades
 
 #### Linguagens de Programação e Frameworks:
 
