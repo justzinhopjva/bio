@@ -1,6 +1,4 @@
-![Gustavo Oliveira da Hora - Dev Júnior![Gemini_Generated_Image_cdtl89cdtl89cdtl](https://github.com/user-attachments/assets/cd2e909a-7d9a-4e61-a517-cfe1f1b8b780)
-]()
-
+![Gustavo Oliveira da Hora - Dev Júnior![Gemini_Generated_Image_cdtl89cdtl89cdtl]
 <div align="center">
   <h1>Olá, Sou o Gustavo Oliveira da Hora!</h1>
 
