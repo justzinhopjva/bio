@@ -1,4 +1,5 @@
-Gustavo Oliveira da Hora - Dev Júnior!
+![Gustavo Oliveira da Hora - Dev Júnior](URL_DA_SUA_IMAGEM_HOSPEDADA_AQUI)
+
 <div align="center">
   <h1>Olá, Sou o Gustavo Oliveira da Hora!</h1>
 
@@ -10,7 +11,7 @@ Gustavo Oliveira da Hora - Dev Júnior!
   </ul>
 
   <p>
-    <a href="gustavooliveira41@gmail.com">
+    <a href="mailto:gustavooliveiradahora41@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/in/gustavo-oliveira-da-hora-86ba9721b/" target="_blank">
@@ -20,12 +21,49 @@ Gustavo Oliveira da Hora - Dev Júnior!
 
   <hr>
 
-  <h2>🛠️ Linguagens e Ferramentas</h2>
+</div>
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,figma" alt="HTML, CSS, JavaScript, TypeScript, PHP, Figma" width="300" />
-  </p>
+---
 
-  <hr>
+### ✨ Destaques
 
+* **Criador de Conteúdo:** Influenciador tech com mais de 30k seguidores nas redes sociais. *(Se não for o caso, ajuste ou remova esta linha)*
+* **Desenvolvedor Freelancer:** Especialista em criação de sites, apps e softwares sob medida para clientes.
+* **Empreendedor:** Fundador de uma marca de roupas e proprietário de um negócio de desenvolvimento web e software. *(Ajuste ou remova se não for o caso)*
+
+---
+
+### 🛠️ Habilidades
+
+#### Linguagens de Programação e Frameworks:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,reactnative,nodejs,php,java,tailwind" alt="HTML, CSS, JavaScript, Bootstrap, React, React Native, Node.js, PHP, Java, TailwindCSS" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+</p>
+
+#### Bancos de Dados:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="MySQL, MongoDB, PostgreSQL" />
+</p>
+
+#### Ferramentas e Plataformas:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github,wordpress" alt="GitHub, WordPress" />
+  <img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix">
+  <img src="https://img.shields.io/badge/Loja%20Integrada-FF5F00?style=for-the-badge&logoColor=white" alt="Loja Integrada">
+  <img src="https://img.shields.io/badge/Tray-FF0000?style=for-the-badge&logoColor=white" alt="Tray">
+</p>
+
+#### Ferramentas de Design:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" alt="Figma, Photoshop" />
+</p>
+
+---
+
+<div align="center">
   </div>
