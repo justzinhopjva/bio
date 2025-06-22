@@ -1,4 +1,4 @@
-![Gustavo Oliveira da Hora - Dev Júnior![Gemini_Generated_Image_cdtl89cdtl89cdtl]
+Gustavo Oliveira da Hora - Dev Júnior!
 <div align="center">
   <h1>Olá, Sou o Gustavo Oliveira da Hora!</h1>
 
