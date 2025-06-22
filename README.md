@@ -1,4 +1,4 @@
-![Gustavo Oliveira da Hora - Dev Júnior](URL_DA_SUA_IMAGEM_HOSPEDADA_AQUI)
+![Gustavo Oliveira da Hora - Dev Júnior](![image](https://github.com/user-attachments/assets/9e6b3f0a-69da-473c-9ed5-dab32947d835)
 
 <div align="center">
   <h1>Olá, Sou o Gustavo Oliveira da Hora!</h1>
