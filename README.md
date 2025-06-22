@@ -22,17 +22,7 @@
   <hr>
 
 </div>
-
----
-
-### ✨ Destaques
-
-* **Criador de Conteúdo:** Influenciador tech com mais de 30k seguidores nas redes sociais. *(Se não for o caso, ajuste ou remova esta linha)*
-* **Desenvolvedor Freelancer:** Especialista em criação de sites, apps e softwares sob medida para clientes.
-* **Empreendedor:** Fundador de uma marca de roupas e proprietário de um negócio de desenvolvimento web e software. *(Ajuste ou remova se não for o caso)*
-
----
-
+--------------
 ### 🛠️ Habilidades
 
 #### Linguagens de Programação e Frameworks:
