@@ -1,4 +1,4 @@
-![Gustavo Oliveira da Hora - Dev Júnior]
+Gustavo Oliveira da Hora - Dev Júnior
 
 <div align="center">
   <h1>Olá, Sou o Gustavo Oliveira da Hora!</h1>
